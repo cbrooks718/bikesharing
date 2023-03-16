@@ -10,3 +10,10 @@ The purpose of this project was to create visualizations using Tableau from Citi
 - Who uses the bikes the most and how long are the bikes being used for by whom?
 
 ## Results
+![Checkout Times](Checkout_Times.png)
+![Checkout Times By Gender](Checkout_Times_Gender.png)
+![Trips by Weekday Per Hour](Trips_by_Weekday_per_Hour.png)
+![Trips by Gender](Trips_by_Gender.png)
+![User Trips by Gender by Weekday](User_Trips_by_Gender_by_Weekday.png)
+![Top Starting Locations](Top_Starting_Locations.png)
+![Top Ending Locations](Top_Ending_Locations.png)
