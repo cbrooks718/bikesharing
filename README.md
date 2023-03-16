@@ -42,3 +42,7 @@ The purpose of these last two images is to show popular locations where bikeshar
 If we look at popular ending locations, the results are virtually the same meaning that people are not travelling far distances when using the bikes. This could be potentially benefitial if bikesharing is applied in smaller settings. 
 
 ## Summary
+
+Given the results, bikesharing has a potential to be popular in other areas such as Des Moins, Iowa if the area has a majority male population and a practical use (i.e. commuting to work). More use cases are needed to see if it would work in other metropolitan areas like New York before applying bikesharing in smaller communities. Two visualizations I would add/modify are:
+- Adding start/stop station names to the popular locations map. This could give us some more insight on why people are using bikesharing other than just commuting to work or having fun on the weekends. For example, Central Park or other nature areas could be popular/conducive to bikesharing
+- The second I would add is a visualization on what age groups are using the bikesharing. For instance, if a lot of young people are using bikesharing but there aren't a lot of young people in Des Moins, Iowa, then it might not be the best fit. 
